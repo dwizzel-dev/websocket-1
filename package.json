@@ -1,14 +1,15 @@
 {
   "author": "",
-  "name": "express-session-parse",
+  "name": "websocket-1",
   "version": "0.0.0",
-  "repository": "websockets/ws",
+  "repository": "websocket-1",
   "dependencies": {
     "async-limiter": "^1.0.0",
-    "express": "~4.14.1",
-    "express-session": "~1.15.1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
     "lodash": "^4.17.5",
     "safe-buffer": "^5.1.1",
-    "uuid": "~3.0.1"
+    "utf-8-validate": "^4.0.0",
+    "uuid": "^3.2.1"
   }
 }
